@@ -49,7 +49,8 @@ Nexora Labs is a Bangalore-based product development studio specializing in buil
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nexora-labs.git
+git clone https://github.com/yourusername/Nexora-Labs---Building-Scalable-Digital-Products
+.git
 cd nexora-labs
 
 # Install dependencies
@@ -180,22 +181,6 @@ VITE_PHONE_NUMBER=+919876543210
 
 ## 🌐 Deployment
 
-### Netlify
-1. Connect your GitHub repository to Netlify
-2. Set build command: `npm run build`
-3. Set publish directory: `dist`
-4. Deploy!
-
-### Vercel
-1. Import your GitHub repository
-2. Vercel will auto-detect the settings
-3. Deploy with one click
-
-### GitHub Pages
-```bash
-npm run build
-# Deploy dist folder to gh-pages branch
-```
 
 ## 📊 Performance
 
