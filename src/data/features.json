@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "title": "Custom Web Applications",
+      "description": "Tailored web solutions built with modern frameworks to meet your specific business requirements and scale with your growth.",
+      "icon": "💻",
+      "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Backend Infrastructure",
+      "description": "Robust, scalable backend systems designed to handle high traffic and complex business logic with optimal performance.",
+      "icon": "⚙️",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Scalable Cloud Deployment",
+      "description": "Expert cloud architecture and deployment strategies ensuring your application runs efficiently and scales seamlessly.",
+      "icon": "☁️",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Secure Authentication Systems",
+      "description": "Enterprise-grade authentication and authorization solutions to protect your data and ensure user privacy.",
+      "icon": "�",
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Product Architecture Consulting",
+      "description": "Strategic technical consulting to design scalable, maintainable architectures that support your long-term business goals.",
+      "icon": "📊",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "id": 6,
+      "title": "API Development & Integration",
+      "description": "RESTful and GraphQL API development with seamless third-party integrations to connect your entire tech ecosystem.",
+      "icon": "🔗",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    }
+  ]
+}
