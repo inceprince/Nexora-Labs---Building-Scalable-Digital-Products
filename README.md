@@ -170,16 +170,8 @@ npm run preview  # Preview production build
 npm run lint     # Run ESLint
 ```
 
-### Environment Variables
 
-Create a `.env` file in the root directory:
 
-```env
-VITE_CONTACT_EMAIL=contact@nexoralabs.in
-VITE_PHONE_NUMBER=+919876543210
-```
-
-## 🌐 Deployment
 
 
 ## 📊 Performance
